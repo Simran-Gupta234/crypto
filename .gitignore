@@ -32,3 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 *.jar
+src/main/resources/application.properties
